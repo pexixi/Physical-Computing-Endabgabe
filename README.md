@@ -30,11 +30,12 @@ Das ganze Konstrukt wird dann in einer 3D-gedruckten Box untergebracht.
 * 1x Doppelseitiges PCB
 * 2x PCB Mount
 * 1x Pin Head Strip 
-* _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?dchild=1&keywords=perfboard&qid=1627310477&sr=8-5)_
 * 9x Kabel
 * 2x Schrumpfschlauch
 * Etwas Isolierband
 * Sprühfarbe
+
+_[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?dchild=1&keywords=perfboard&qid=1627310477&sr=8-5)_
 
 ### Software
 
