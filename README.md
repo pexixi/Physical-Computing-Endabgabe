@@ -70,6 +70,19 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 
 _Bitte löten Sie die Kabel wie auf dem Schaltplan beschrieben._
 
+
+##### Zusammenbau:
+
+* Schritt 1: Löten Sie die 2 PCB Mounts wie auf dem Bild gezeigt
+* Schritt 2: Löten Sie die Kabel wie auf dem Bild auf das PCB
+* Schritt 3: Demontieren Sie das erste LED-Panel von der Platine und entfernen Sie den Pinstecker
+* Schritt 4: Löten Sie die Pins im 90° Winkel zur Platine wie auf dem Bild gezeigt
+* Schritt 5: Löten Sie die Pins am 5V und GND Pol des Battery Shields (siehe Bild)
+* Schritt 6: Stecken Sie das ESP32 auf das PCB Mount
+* Schritt 7: Verbinden Sie alle Kabel wie im Code gezeigt. (siehe ESP32 Pinout)
+* Schritt 8: Verbinden Sie alle Komponenten mit Kabeln
+* Schritt 9: Legen sie den Li-ion Akku in das Battery Shield (**WICHTIG: Achten Sie auf die richtige Ausrichtung des Akkus (+ zu + und - zu -**)
+
 <br>
 
 ## Step 3
@@ -78,7 +91,7 @@ _Bitte löten Sie die Kabel wie auf dem Schaltplan beschrieben._
 
 ##### In diesem Repository befinden sich alle benötigten Dateien um den Code-Teil des Projektes zu realisieren.
 
-[Download Code als zip-Datei](https://github.com/pexixi/Physical-Computing-Hausaufgabe/archive/refs/heads/master.zip)
+[Download Code als zip-Datei ##](##)
 
 _Sidenotes_: 
 * Alle Dateien des Repositories müssen in einem Ordner lokal gespeichert werden, die Dateistruktur darf nicht verändert werden.
@@ -95,12 +108,12 @@ _Sidenotes_:
 
 ##### Rhino7
 
-Das [Casing wurde als 3D-Modell in Rhino7 erstellt](https://drive.google.com/file/d/1GuevXauV8vqbjhybcov0RX2tvitX1TXp/view?usp=sharing) und jeweils als [Case-Bottom](https://drive.google.com/file/d/1lbmdixJKzBxGtuH2gYP01l1wQrOFi1sH/view?usp=sharing) und [Case-Top](https://drive.google.com/file/d/1oV4DrCb4L1Zor5Irk_gMIY47h2J9fne2/view?usp=sharing) im .stl-Format exportiert.
-_Alle Dateien können heruntergeladen und in den entsprechenden Programmen modifiziert werden_
+Das [Casing wurde als 3D-Modell in Rhino7 erstellt](https://drive.google.com/file/d/1GuevXauV8vqbjhybcov0RX2tvitX1TXp/view?usp=sharing) und jeweils als [Case-Bottom](https://drive.google.com/file/d/1lbmdixJKzBxGtuH2gYP01l1wQrOFi1sH/view?usp=sharing) und [Case-Top](https://drive.google.com/file/d/1oV4DrCb4L1Zor5Irk_gMIY47h2J9fne2/view?usp=sharing) im .stl-Format exportiert. <br>
+_Alle Dateien können heruntergeladen und in den entsprechenden Programmen modifiziert werden._
 
 ##### PrusaSlicer
 
-Casing-Bottom und Casing-Top werden anschließend in PrusaSlicer importiert, um einen 3D-druckbares Modell zu generieren. Für den Ender 3 Pro 3D-Drucker ist bereits eine [fertiger G-Code](https://drive.google.com/file/d/1KjzhNtuQ0tgyJUDDB1J4HIN_AcjvYdh_/view?usp=sharing) angelegt. 
+Casing-Bottom und Casing-Top werden anschließend in PrusaSlicer importiert, um einen 3D-druckbares Modell zu generieren. Für den Ender 3 Pro 3D-Drucker ist bereits eine [fertiger G-Code](https://drive.google.com/file/d/1KjzhNtuQ0tgyJUDDB1J4HIN_AcjvYdh_/view?usp=sharing) angelegt. <br>
 _Um aus den .stl-Dateien einen G-Code für einen anderen 3D-Drucker zu generieren, schauen Sie in die [Dokumentation von PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)_
 
 <br>
@@ -134,7 +147,7 @@ Als Webentwickler macht mir coden Spaß, zudem bin ich relativ technikbegeistert
 Ich konnte definitiv ein besseres Verständnis dafür bekommen, wie Technik aufgebaut ist und funktioniert. Microcontroller finde ich sehr spannend und ich kann mir gut vorstellen, mich hobbymäßig mehr in dem Bereich auszuleben.
 Dennoch muss ich sagen, dass der Einstieg nicht gerade einfach ist, da man anfangs einfach nur akzeptiert, dass eine Komponente/ein Code jetzt so funktioniert, aber nicht weiß wieso.
 
-### Verlauf des Entstehungsprozesses
+### Verlauf des Entstehungsprozesses INCOMPLETE
 
 ##### Erstes Mal das Panel mit der Libary ausprobiert (_ src: Youtube_)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
