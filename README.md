@@ -100,6 +100,14 @@ _Sidenotes_:
 * Sollten Sie Probleme beim Einrichten von PlattformIO in VSC haben, schauen Sie in die [Dokumentation](https://docs.platformio.org/en/latest/integration/ide/vscode.html).
 * **Die einzige Datei die verändert werden sollte ist die _main.cpp_ im _src_ - Ordner**
 
+### Install Software INCOMPLETE
+
+* Schritt 1: Wenn Sie die IDE von PlattformIO benutzen, starten Sie ein neues Projekt und wählen Sie ihren Microcontroller aus
+* Schritt 2: Installieren Sie  die Libary FastLED von PlattformIO in ihr Projekt
+* Schritt 3: Kopieren Sie die Dateien aus dem Repo in den Projektordner
+* Schritt 4: Bearbeiten Sie die main.cpp-Datei nach Ihrem belieben
+* Schritt 5: [Builden Sie das Projekt](https://docs.platformio.org/en/latest/core/quickstart.html#process-project)
+* Schritt 6: [Laden Sie das Projekt auf den Arduino](https://docs.platformio.org/en/latest/core/quickstart.html#process-project)
 <br>
 
 ## Step 4
