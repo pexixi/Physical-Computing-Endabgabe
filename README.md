@@ -81,7 +81,7 @@ _Bitte löten Sie die Kabel wie auf dem Schaltplan beschrieben._
 * Schritt 6: Stecken Sie das ESP32 auf das PCB Mount
 * Schritt 7: Verbinden Sie alle Kabel wie im Code gezeigt. (siehe ESP32 Pinout)
 * Schritt 8: Verbinden Sie alle Komponenten mit Kabeln
-* Schritt 9: Legen sie den Li-ion Akku in das Battery Shield (**WICHTIG: Achten Sie auf die richtige Ausrichtung des Akkus (+ zu + und - zu -**)
+* Schritt 9: Legen sie den Li-ion Akku in das Battery Shield <br> **WICHTIG: Achten Sie auf die richtige Ausrichtung des Akkus (+ zu + und - zu -)**
 
 <br>
 
