@@ -1,4 +1,4 @@
-# Physical Computing Hausaufgabe
+# Physical Computing Endabgabe
 
 Hier das Repo zu meiner Endabgabe im Seminar Physical Computing bei Peter Ehses.
 
