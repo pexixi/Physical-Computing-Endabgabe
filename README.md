@@ -101,7 +101,7 @@ _Alle Dateien können heruntergeladen und in den entsprechenden Programmen modif
 ##### PrusaSlicer
 
 Casing-Bottom und Casing-Top werden anschließend in PrusaSlicer importiert, um einen 3D-druckbares Modell zu generieren. Für den Ender 3 Pro 3D-Drucker ist bereits eine [fertiger G-Code](https://drive.google.com/file/d/1KjzhNtuQ0tgyJUDDB1J4HIN_AcjvYdh_/view?usp=sharing) angelegt. 
-_Um aus den .stl-Dateien einen G-Code für einen anderen 3D-Drucker zu generieren, schauen Sie in die [Dokumentation von PrusaSlicer](https://github.com/prusa3d/PrusaSlicer). 
+_Um aus den .stl-Dateien einen G-Code für einen anderen 3D-Drucker zu generieren, schauen Sie in die [Dokumentation von PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)_
 
 <br>
 
