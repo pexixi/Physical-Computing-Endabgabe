@@ -132,7 +132,7 @@ _Um aus den .stl-Dateien einen G-Code für einen anderen 3D-Drucker zu generiere
 
 ##### Zusammenbau der Komponenten
 
-Das 3D-gedruckte Casing kann jetzt mit 120er Körnung Schmirgelpapier von Druckfehlern befreit werden, danach kann die angeraut und dann mit Sprühfarbe eingefärbt werden.
+Das 3D-gedruckte Casing kann jetzt mit 120er Körnung Schmirgelpapier von Druckfehlern befreit werden, danach kann die Oberfläche angeraut und mit Sprühfarbe eingefärbt werden.
 Legen Sie nach dem Trocknen das LED-Panel in die Halterung und fixieren Sie das Panel mit etwas Isolierband.
 Richten Sie die Komponenten anschließend auf dem Boden des Casings aus, dass Sie passen und isolieren Sie den Akku von angrenzender Elektronik mit Isolierband. Kleben Sie anschließend die Komponenten auf dem Boden des Casings mit Hilfe der Heißklebepistole fest.
 
