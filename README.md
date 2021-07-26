@@ -60,11 +60,7 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 
 <br>
 
-
----- HIER WEITERMACHEN ----
-
-
-## Step 2
+## Step 2 INCOMPLETE
 
 ### Schaltplan und Zusammenbau der Hardware
 
@@ -120,3 +116,40 @@ Legen Sie nach dem Trocknen das LED-Panel in die Halterung und fixieren Sie das 
 Richten Sie die Komponenten anschließend auf dem Boden des Casings aus, dass Sie passen und isolieren Sie den Akku von angrenzender Elektronik mit Isolierband. Kleben Sie anschließend die Komponenten auf dem Boden des Casings mit Hilfe der Heißklebepistole fest.
 
 <br>
+
+# Misc
+
+### Verwendete Tutorials Übersicht
+
+[Text Scrolling Display | MAX7219 Dot Matrix 4-in-1| Arduino](https://www.youtube.com/watch?v=lcrQet0ga-k)
+
+### Reflektion der Ziele
+
+##### These
+
+Als Webentwickler macht mir coden Spaß, zudem bin ich relativ technikbegeistert und neugierig wie Technik generell funktioniert. In meinem Projekt wollte erste Berührungspunkte mit dem Thema Microcontroller und elektronischen Komponenten sammeln, um herauszufinden, ob mir dieses Gebiet gefällt und ich mich weiter in diese Richtung entwickeln will. Außerdem wollte ich ein besseres Verständnis dafür entwickeln wie Technik von Grund auf funktioniert.
+
+##### Fazit
+
+Ich konnte definitiv ein besseres Verständnis dafür bekommen, wie Technik aufgebaut ist und funktioniert. Microcontroller finde ich sehr spannend und ich kann mir gut vorstellen, mich hobbymäßig mehr in dem Bereich auszuleben.
+Dennoch muss ich sagen, dass der Einstieg nicht gerade einfach ist, da man anfangs einfach nur akzeptiert, dass eine Komponente/ein Code jetzt so funktioniert, aber nicht weiß wieso.
+
+### Verlauf des Entstehungsprozesses
+
+##### Erstes Mal das Panel mit der Libary ausprobiert (_ src: Youtube_)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+##### Erstes Mal richtige Libary mit Lauftext zum laufen gebracht (_ src: Youtube_)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+##### 3D-Druck Anfang (14 Stunden Druck) (_ src: Youtube_)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+##### Placeholder (_ src: Youtube_)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+
+### Nächste Schritte (nicht geplant)
+
+* Weitere Funktionen für das LED-Panel austesten (Uhr)
+* Den Apparat mit WLan ausstatten
