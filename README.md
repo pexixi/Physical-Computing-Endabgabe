@@ -33,7 +33,8 @@ Das ganze Konstrukt wird dann in einer 3D-gedruckten Box untergebracht.
 * 9x Kabel
 * 2x Schrumpfschlauch
 * Etwas Isolierband
-* Sprühfarbe
+* Schmirgelpapier (120er Körnung)
+* Sprühfarbe nach Wahl
 
 _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?dchild=1&keywords=perfboard&qid=1627310477&sr=8-5)_
 
@@ -65,11 +66,13 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 
 ## Step 2
 
-### Schaltplan
+### Schaltplan und Zusammenbau der Hardware
 
 ##### Der Schaltplan hat folgendes Layout:
 
-![_Schaltplan in Tinkercad_](https://i.imgur.com/YrBSaw2.png)
+![_##_](##)
+
+_Bitte löten Sie die Kabel wie auf dem Schaltplan beschrieben._
 
 <br>
 
@@ -84,7 +87,7 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 _Sidenotes_: 
 * Alle Dateien des Repositories müssen in einem Ordner lokal gespeichert werden, die Dateistruktur darf nicht verändert werden.
 * Nutzen Sie einen Code-Editor wie beispielsweise [Visual Studio Code](https://code.visualstudio.com/) (VSC) um den Code zu editieren.
-* Nutzen Sie die IDE von PlattformIO, welche in VSC installiert werden kann (Plugin), um den Code auf den Arduino zu hochzuladen.
+* Nutzen Sie die IDE von PlattformIO, welche in VSC installiert werden kann (Plugin), um den Code auf den ESP32 zu hochzuladen.
 * Sollten Sie Probleme beim Einrichten von PlattformIO in VSC haben, schauen Sie in die [Dokumentation](https://docs.platformio.org/en/latest/integration/ide/vscode.html).
 * **Die einzige Datei die verändert werden sollte ist die _main.cpp_ im _src_ - Ordner**
 
@@ -92,8 +95,28 @@ _Sidenotes_:
 
 ## Step 4
 
+### 3D-Modell
+
+##### Rhino7
+
+Das [Casing wurde als 3D-Modell in Rhino7 erstellt](https://drive.google.com/file/d/1GuevXauV8vqbjhybcov0RX2tvitX1TXp/view?usp=sharing) und jeweils als [Case-Bottom](https://drive.google.com/file/d/1lbmdixJKzBxGtuH2gYP01l1wQrOFi1sH/view?usp=sharing) und [Case-Top](https://drive.google.com/file/d/1oV4DrCb4L1Zor5Irk_gMIY47h2J9fne2/view?usp=sharing) im .stl-Format exportiert.
+_Alle Dateien können heruntergeladen und in den entsprechenden Programmen modifiziert werden_
+
+##### PrusaSlicer
+
+Casing-Bottom und Casing-Top werden anschließend in PrusaSlicer importiert, um einen 3D-druckbares Modell zu generieren. Für den Ender 3 Pro 3D-Drucker ist bereits eine [fertiger G-Code](https://drive.google.com/file/d/1KjzhNtuQ0tgyJUDDB1J4HIN_AcjvYdh_/view?usp=sharing) angelegt. 
+_Um aus den .stl-Dateien einen G-Code für einen anderen 3D-Drucker zu generieren, schauen Sie in die [Dokumentation von PrusaSlicer](https://github.com/prusa3d/PrusaSlicer). 
+
+<br>
+
+## Step 5
+
 ### Finish
 
-##### Kompilieren/Builden Sie das Projekt in VSC und laden Sie es anschließend auf das Arduino hoch.
+##### Zusammenbau der Komponenten
+
+Das 3D-gedruckte Casing kann jetzt mit 120er Körnung Schmirgelpapier von Druckfehlern befreit werden, danach kann die angeraut und dann mit Sprühfarbe eingefärbt werden.
+Legen Sie nach dem Trocknen das LED-Panel in die Halterung und fixieren Sie das Panel mit etwas Isolierband.
+Richten Sie die Komponenten anschließend auf dem Boden des Casings aus, dass Sie passen und isolieren Sie den Akku von angrenzender Elektronik mit Isolierband. Kleben Sie anschließend die Komponenten auf dem Boden des Casings mit Hilfe der Heißklebepistole fest.
 
 <br>
