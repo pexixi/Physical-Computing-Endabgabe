@@ -114,7 +114,7 @@ _Sidenotes_:
 
 ##### Fusion360
 
-Das [Casing wurde als 3D-Modell in Fusion360 erstellt](https://www.autodesk.de/products/fusion-360/personal) und jeweils als [Case-Bottom](https://drive.google.com/file/d/12Amgk3q4uACBWGeh2aorHHYebmk8sI24/view?usp=sharing) und [Case-Top](https://drive.google.com/file/d/1RedVauzBIqDiYhcPsK67nbPZa154sME3/view?usp=sharing) im .stl-Format exportiert. <br>
+Das Casing wurde als 3D-Modell in Fusion360 erstellt und [sowohl als .f3z-Datei](https://drive.google.com/file/d/1JD8DKZzHgL9R7PYdTcOIQCFAfEy4mTFu/view?usp=sharing) und auch als [Case-Bottom](https://drive.google.com/file/d/12Amgk3q4uACBWGeh2aorHHYebmk8sI24/view?usp=sharing) und [Case-Top](https://drive.google.com/file/d/1RedVauzBIqDiYhcPsK67nbPZa154sME3/view?usp=sharing) im .stl-Format exportiert. <br>
 _Alle Dateien können heruntergeladen und in entsprechenden Programmen modifiziert werden._
 
 ![Assembly 1](https://imgur.com/YmZyLP6.png)
