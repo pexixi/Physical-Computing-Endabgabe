@@ -147,13 +147,14 @@ Richten Sie die Komponenten anschließend auf dem Boden des Casings aus, dass Si
 
 ### Verwendete Tutorials Übersicht
 
-[Text Scrolling Display | MAX7219 Dot Matrix 4-in-1| Arduino](https://www.youtube.com/watch?v=lcrQet0ga-k)
+[Text Scrolling Display | MAX7219 Dot Matrix 4-in-1| Arduino (Youtube)](https://www.youtube.com/watch?v=lcrQet0ga-k)
+[Matrix LED 32x8 - 4 Modules 8x8 with MAX7219 (GrabCAD)](https://grabcad.com/library/matrix-led-32x8-4-modules-8x8-with-max7219-1)
 
 ### Reflektion der Ziele
 
 ##### These
 
-Als Webentwickler macht mir coden Spaß, zudem bin ich relativ technikbegeistert und neugierig wie Technik generell funktioniert. In meinem Projekt wollte erste Berührungspunkte mit dem Thema Microcontroller und elektronischen Komponenten sammeln, um herauszufinden, ob mir dieses Gebiet gefällt und ich mich weiter in diese Richtung entwickeln will. Außerdem wollte ich ein besseres Verständnis dafür entwickeln wie Technik von Grund auf funktioniert.
+Als Webentwickler macht mir Coden spaß, zudem bin ich relativ technikbegeistert und neugierig wie Technik generell funktioniert. In meinem Projekt wollte erste Berührungspunkte mit dem Thema Microcontroller und elektronischen Komponenten sammeln, um herauszufinden, ob mir dieses Gebiet gefällt und ich mich weiter in diese Richtung entwickeln will. Außerdem wollte ich ein besseres Verständnis dafür entwickeln wie Technik von Grund auf funktioniert.
 
 ##### Fazit
 
@@ -162,13 +163,13 @@ Dennoch muss ich sagen, dass der Einstieg nicht gerade einfach ist, da man anfan
 
 ### Verlauf des Entstehungsprozesses INCOMPLETE
 
-##### Erstes Mal das Panel mit der Libary ausprobiert (Youtube)
+##### Erstes Mal das Panel mit Libary ausprobiert (Youtube)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kx7GaSJh67w/0.jpg)](https://www.youtube.com/watch?v=kx7GaSJh67w)
 
-##### Erstes Mal richtige Libary mit Lauftext zum laufen gebracht (Youtube)
+##### Erstes Mal richtige Libary mit Lauftext zum Laufen gebracht (Youtube)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GreU7p_BqmY/0.jpg)](https://www.youtube.com/watch?v=GreU7p_BqmY)
 
-##### 3D-Druck Anfang (16 Stunden Druck) (Youtube)
+##### 3D-Druck (Anfang von 16 Stunden drucken) (Youtube)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_AsuDvulLv0/0.jpg)](https://www.youtube.com/watch?v=_AsuDvulLv0)
 
 ##### Placeholder (Youtube)
