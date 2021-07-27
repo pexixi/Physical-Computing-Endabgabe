@@ -117,17 +117,17 @@ _Sidenotes_:
 Das [Casing wurde als 3D-Modell in Fusion360 erstellt](https://www.autodesk.de/products/fusion-360/personal) und jeweils als [Case-Bottom](https://drive.google.com/file/d/12Amgk3q4uACBWGeh2aorHHYebmk8sI24/view?usp=sharing) und [Case-Top](https://drive.google.com/file/d/1RedVauzBIqDiYhcPsK67nbPZa154sME3/view?usp=sharing) im .stl-Format exportiert. <br>
 _Alle Dateien können heruntergeladen und in entsprechenden Programmen modifiziert werden._
 
-![Assembly 1](https://drive.google.com/file/d/1AX6JOene9OChLWpwtrt9Hw_wisCzgRYE/view?usp=sharing)
-![Assembly 2](https://drive.google.com/file/d/1NDXQ9eCFXW4UmV8wTvComALIWcr7FGK0/view?usp=sharing)
-![Assembly 3](https://drive.google.com/file/d/1YXdIbZ9Pzh7FmEvcsgz4UJsXb0wDpMgR/view?usp=sharing)
-![Assembly 4](https://drive.google.com/file/d/1F5Pkvhxfa5ug7hnffMJqqOMfEGFdvwDw/view?usp=sharing)
+![Assembly 1](https://imgur.com/YmZyLP6.png)
+![Assembly 2](https://imgur.com/8rsKGCR.png)
+![Assembly 3](https://imgur.com/rqFNzdl.png)
+![Assembly 4](https://imgur.com/KwiUSJY.png)
 
 ##### PrusaSlicer
 
 Casing-Bottom und Casing-Top werden anschließend in PrusaSlicer importiert, um einen 3D-druckbares Modell zu generieren. Für den Ender 3 Pro 3D-Drucker ist bereits eine [fertiger G-Code](https://drive.google.com/file/d/1LTSdZjHYtXzgyWq_We8hQhu_QRHT8Dq6/view?usp=sharing) angelegt. <br>
 _Um aus den .stl-Dateien einen G-Code für einen anderen 3D-Drucker zu generieren, schauen Sie in die [Dokumentation von PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)_
 
-![G-Code-Modell in PrusaSlicer](https://drive.google.com/file/d/1Jtj8vnHa9KaMgQ517p2vDKfIDWutOPoX/view?usp=sharing)
+![G-Code-Modell in PrusaSlicer](https://imgur.com/l1lSUjz.png)
 
 <br>
 
