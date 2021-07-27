@@ -43,8 +43,8 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 ##### Folgende Software wird im Projekt genutzt:
 
 * [PlattformIO](https://platformio.org/)
-* [MD_Parola-Libary](https://platformio.org/lib/show/1389/MD_Parola)
-* [MD_MAX72XX-Libary](https://platformio.org/lib/show/5631/MD_MAX72XX)
+* [MD_Parola-Library](https://platformio.org/lib/show/1389/MD_Parola)
+* [MD_MAX72XX-Library](https://platformio.org/lib/show/5631/MD_MAX72XX)
 * [Fusion360 (CAD)](https://www.autodesk.de/products/fusion-360/personal)
 * [PrusaSlicer](https://www.prusa3d.de/prusaslicer/)
 
@@ -101,7 +101,7 @@ _Sidenotes_:
 ### Install Software
 
 * Schritt 1: Wenn Sie die IDE von PlattformIO benutzen, starten Sie ein neues Projekt und wählen Sie ihren Microcontroller aus
-* Schritt 2: Installieren Sie  die Libary _MD_PAROLA_ und _MD_MAX72XX_ über PlattformIO in ihr Projekt
+* Schritt 2: Installieren Sie  die Library _MD_PAROLA_ und _MD_MAX72XX_ über PlattformIO in ihr Projekt
 * Schritt 3: Kopieren Sie die Dateien aus dem Repo in den Projektordner
 * Schritt 4: Bearbeiten Sie die main.cpp-Datei nach Ihrem belieben
 * Schritt 5: [Builden Sie das Projekt](https://docs.platformio.org/en/latest/core/quickstart.html#process-project)
@@ -163,10 +163,10 @@ Dennoch muss ich sagen, dass der Einstieg nicht gerade einfach ist, da man anfan
 
 ### Verlauf des Entstehungsprozesses INCOMPLETE
 
-##### Erstes Mal das Panel mit Libary ausprobiert (Youtube)
+##### Erstes Mal das Panel mit Library ausprobiert (Youtube)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kx7GaSJh67w/0.jpg)](https://www.youtube.com/watch?v=kx7GaSJh67w)
 
-##### Erstes Mal richtige Libary mit Lauftext zum Laufen gebracht (Youtube)
+##### Erstes Mal richtige Library mit Lauftext zum Laufen gebracht (Youtube)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GreU7p_BqmY/0.jpg)](https://www.youtube.com/watch?v=GreU7p_BqmY)
 
 ##### 3D-Druck (Anfang von 16 Stunden drucken) (Youtube)
