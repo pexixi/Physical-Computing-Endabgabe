@@ -43,8 +43,8 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 ##### Folgende Software wird im Projekt genutzt:
 
 * [PlattformIO](https://platformio.org/)
-* MD_Parola-Libary
-* MD_MAX72XX-Libary
+* [MD_Parola-Libary](https://platformio.org/lib/show/1389/MD_Parola)
+* [MD_MAX72XX-Libary](https://platformio.org/lib/show/5631/MD_MAX72XX)
 * [Fusion360 (CAD)](https://www.autodesk.de/products/fusion-360/personal)
 * [PrusaSlicer](https://www.prusa3d.de/prusaslicer/)
 
