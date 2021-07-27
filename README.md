@@ -42,11 +42,11 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 
 ##### Folgende Software wird im Projekt genutzt:
 
-* PlattformIO IDE
+* [PlattformIO](https://platformio.org/)
 * MD_Parola-Libary
 * MD_MAX72XX-Libary
-* Fusion360 (CAD)
-* PrusaSlicer
+* [Fusion360 (CAD)](https://www.autodesk.de/products/fusion-360/personal)
+* [PrusaSlicer](https://www.prusa3d.de/prusaslicer/)
 
 ### Tools
 
