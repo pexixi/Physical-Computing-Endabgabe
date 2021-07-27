@@ -12,8 +12,8 @@ Ziel dieses Projektes ist es, mit Hilfe des Mikrocontrollers _ESP32_, ein LED-Pa
 Da das ESP32 mit einem Wlan-Chip ausgestattet ist, wird die Apparatur mit Hilfe eines Akkus versorgt, um sie gegebenenfalls portabel und Remote-Steuerbar zu machen.
 Das ganze Konstrukt wird dann in einer 3D-gedruckten Box untergebracht.
 
-![##](##)
-![##](##)
+![Beispielbilder fertiges Produkt](##)
+![Beispielbilder fertiges Produkt](##)
 
 <br>
 
@@ -69,7 +69,7 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 _Bitte löten Sie die Kabel wie auf dem Schaltplan beschrieben._
 
 
-##### Zusammenbau: INCOMPLETE
+##### Zusammenbau:
 
 * Schritt 1: Löten Sie die 2 PCB Mounts wie auf dem Bild gezeigt
 * Schritt 2: Löten Sie die Kabel wie auf dem Bild auf das PCB
@@ -89,7 +89,7 @@ _Bitte löten Sie die Kabel wie auf dem Schaltplan beschrieben._
 
 ##### In diesem Repository befinden sich alle benötigten Dateien um den Code-Teil des Projektes zu realisieren.
 
-[Download Code als zip-Datei ##](##)
+[Download Code als zip-Datei](https://github.com/pexixi/Physical-Computing-Endabgabe/archive/refs/heads/main.zip)
 
 _Sidenotes_: 
 * Alle Dateien des Repositories müssen in einem Ordner lokal gespeichert werden, die Dateistruktur darf nicht verändert werden.
@@ -98,14 +98,14 @@ _Sidenotes_:
 * Sollten Sie Probleme beim Einrichten von PlattformIO in VSC haben, schauen Sie in die [Dokumentation](https://docs.platformio.org/en/latest/integration/ide/vscode.html).
 * **Die einzige Datei die verändert werden sollte ist die _main.cpp_ im _src_ - Ordner**
 
-### Install Software INCOMPLETE
+### Install Software
 
 * Schritt 1: Wenn Sie die IDE von PlattformIO benutzen, starten Sie ein neues Projekt und wählen Sie ihren Microcontroller aus
-* Schritt 2: Installieren Sie  die Libary FastLED von PlattformIO in ihr Projekt
+* Schritt 2: Installieren Sie  die Libary _MD_PAROLA_ und _MD_MAX72XX_ über PlattformIO in ihr Projekt
 * Schritt 3: Kopieren Sie die Dateien aus dem Repo in den Projektordner
 * Schritt 4: Bearbeiten Sie die main.cpp-Datei nach Ihrem belieben
 * Schritt 5: [Builden Sie das Projekt](https://docs.platformio.org/en/latest/core/quickstart.html#process-project)
-* Schritt 6: [Laden Sie das Projekt auf den Arduino](https://docs.platformio.org/en/latest/core/quickstart.html#process-project)
+* Schritt 6: [Laden Sie das Projekt auf den ESP32](https://docs.platformio.org/en/latest/core/quickstart.html#process-project)
 <br>
 
 ## Step 4
@@ -139,7 +139,7 @@ _Um aus den .stl-Dateien einen G-Code für einen anderen 3D-Drucker zu generiere
 
 Das 3D-gedruckte Casing kann jetzt mit 120er Körnung Schmirgelpapier von Druckfehlern befreit werden, danach kann die Oberfläche angeraut und mit Sprühfarbe eingefärbt werden.
 Legen Sie nach dem Trocknen das LED-Panel in die Halterung und fixieren Sie das Panel mit etwas Isolierband.
-Richten Sie die Komponenten anschließend auf dem Boden des Casings aus, dass Sie passen und isolieren Sie den Akku von angrenzender Elektronik mit Isolierband. Kleben Sie anschließend die Komponenten auf dem Boden des Casings mit Hilfe der Heißklebepistole fest.
+Richten Sie die Komponenten anschließend auf dem Boden des Casings aus, dass Sie passen und isolieren Sie den Akku von angrenzender Elektronik mit Isolierband. Kleben Sie anschließend die Komponenten auf dem Boden des Casings mit Hilfe einer Heißklebepistole fest.
 
 <br>
 
@@ -147,8 +147,8 @@ Richten Sie die Komponenten anschließend auf dem Boden des Casings aus, dass Si
 
 ### Verwendete Tutorials Übersicht
 
-[Text Scrolling Display | MAX7219 Dot Matrix 4-in-1| Arduino (Youtube)](https://www.youtube.com/watch?v=lcrQet0ga-k)
-[Matrix LED 32x8 - 4 Modules 8x8 with MAX7219 (GrabCAD)](https://grabcad.com/library/matrix-led-32x8-4-modules-8x8-with-max7219-1)
+* [Text Scrolling Display | MAX7219 Dot Matrix 4-in-1| Arduino (Youtube)](https://www.youtube.com/watch?v=lcrQet0ga-k)
+* [Matrix LED 32x8 - 4 Modules 8x8 with MAX7219 (GrabCAD)](https://grabcad.com/library/matrix-led-32x8-4-modules-8x8-with-max7219-1)
 
 ### Reflektion der Ziele
 
