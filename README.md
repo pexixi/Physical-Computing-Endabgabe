@@ -45,7 +45,7 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 * PlattformIO IDE
 * MD_Parola-Libary
 * MD_MAX72XX-Libary
-* Rhino7 (CAD)
+* Fusion360 (CAD)
 * PrusaSlicer
 
 ### Tools
@@ -55,8 +55,6 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 * Lötkolben und Lötzinn
 * 3D-Drucker
 * Heisklebepistole
-* Schleifpaper
-* Feile
 
 <br>
 
@@ -114,15 +112,22 @@ _Sidenotes_:
 
 ### 3D-Modell
 
-##### Rhino7
+##### Fusion360
 
-Das [Casing wurde als 3D-Modell in Rhino7 erstellt](https://drive.google.com/file/d/1GuevXauV8vqbjhybcov0RX2tvitX1TXp/view?usp=sharing) und jeweils als [Case-Bottom](https://drive.google.com/file/d/1lbmdixJKzBxGtuH2gYP01l1wQrOFi1sH/view?usp=sharing) und [Case-Top](https://drive.google.com/file/d/1oV4DrCb4L1Zor5Irk_gMIY47h2J9fne2/view?usp=sharing) im .stl-Format exportiert. <br>
-_Alle Dateien können heruntergeladen und in den entsprechenden Programmen modifiziert werden._
+Das [Casing wurde als 3D-Modell in Fusion360 erstellt](https://www.autodesk.de/products/fusion-360/personal) und jeweils als [Case-Bottom](https://drive.google.com/file/d/12Amgk3q4uACBWGeh2aorHHYebmk8sI24/view?usp=sharing) und [Case-Top](https://drive.google.com/file/d/1RedVauzBIqDiYhcPsK67nbPZa154sME3/view?usp=sharing) im .stl-Format exportiert. <br>
+_Alle Dateien können heruntergeladen und in entsprechenden Programmen modifiziert werden._
+
+![Assembly 1](https://drive.google.com/file/d/1AX6JOene9OChLWpwtrt9Hw_wisCzgRYE/view?usp=sharing)
+![Assembly 2](https://drive.google.com/file/d/1NDXQ9eCFXW4UmV8wTvComALIWcr7FGK0/view?usp=sharing)
+![Assembly 3](https://drive.google.com/file/d/1YXdIbZ9Pzh7FmEvcsgz4UJsXb0wDpMgR/view?usp=sharing)
+![Assembly 4](https://drive.google.com/file/d/1F5Pkvhxfa5ug7hnffMJqqOMfEGFdvwDw/view?usp=sharing)
 
 ##### PrusaSlicer
 
-Casing-Bottom und Casing-Top werden anschließend in PrusaSlicer importiert, um einen 3D-druckbares Modell zu generieren. Für den Ender 3 Pro 3D-Drucker ist bereits eine [fertiger G-Code](https://drive.google.com/file/d/1KjzhNtuQ0tgyJUDDB1J4HIN_AcjvYdh_/view?usp=sharing) angelegt. <br>
+Casing-Bottom und Casing-Top werden anschließend in PrusaSlicer importiert, um einen 3D-druckbares Modell zu generieren. Für den Ender 3 Pro 3D-Drucker ist bereits eine [fertiger G-Code](https://drive.google.com/file/d/1LTSdZjHYtXzgyWq_We8hQhu_QRHT8Dq6/view?usp=sharing) angelegt. <br>
 _Um aus den .stl-Dateien einen G-Code für einen anderen 3D-Drucker zu generieren, schauen Sie in die [Dokumentation von PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)_
+
+![G-Code-Modell in PrusaSlicer](https://drive.google.com/file/d/1Jtj8vnHa9KaMgQ517p2vDKfIDWutOPoX/view?usp=sharing)
 
 <br>
 
