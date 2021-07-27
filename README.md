@@ -162,16 +162,16 @@ Dennoch muss ich sagen, dass der Einstieg nicht gerade einfach ist, da man anfan
 
 ### Verlauf des Entstehungsprozesses INCOMPLETE
 
-##### Erstes Mal das Panel mit der Libary ausprobiert (_ src: Youtube_)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+##### Erstes Mal das Panel mit der Libary ausprobiert (Youtube)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kx7GaSJh67w/0.jpg)](https://www.youtube.com/watch?v=kx7GaSJh67w)
 
-##### Erstes Mal richtige Libary mit Lauftext zum laufen gebracht (_ src: Youtube_)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+##### Erstes Mal richtige Libary mit Lauftext zum laufen gebracht (Youtube)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GreU7p_BqmY/0.jpg)](https://www.youtube.com/watch?v=GreU7p_BqmY)
 
-##### 3D-Druck Anfang (14 Stunden Druck) (_ src: Youtube_)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+##### 3D-Druck Anfang (16 Stunden Druck) (Youtube)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_AsuDvulLv0/0.jpg)](https://www.youtube.com/watch?v=_AsuDvulLv0)
 
-##### Placeholder (_ src: Youtube_)
+##### Placeholder (Youtube)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 
