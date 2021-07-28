@@ -180,3 +180,8 @@ Dennoch muss ich sagen, dass der Einstieg nicht gerade einfach ist, da man anfan
 
 * Weitere Funktionen für das LED-Panel austesten (Uhr)
 * Den Apparat mit WLan ausstatten
+
+
+
+https://imgur.com/a/5PryDBm IMGUR BIN
+https://imgur.com/a/cPGTFvc IMGUR BIN 2
