@@ -66,7 +66,11 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 
 ##### Der Schaltplan hat folgendes Layout:
 
-![_##_](##)
+![Schaltplan](https://i.imgur.com/u6TIvw4.png)
+
+<br>
+
+![Pinout ESP32](https://i.imgur.com/lMDQXF4.png)
 
 _Bitte löten Sie die Kabel wie auf dem Schaltplan beschrieben._
 
