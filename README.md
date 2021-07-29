@@ -175,17 +175,17 @@ Dennoch muss ich sagen, dass der Einstieg nicht gerade einfach ist, da man anfan
 [![Thumbnail](https://img.youtube.com/vi/_AsuDvulLv0/0.jpg)](https://www.youtube.com/watch?v=_AsuDvulLv0)
 
 ##### Fertiger 3D-Druck
-![Thumbnail](https://i.imgur.com/MylAgsZ.jpg = x500)
-![Thumbnail](https://i.imgur.com/sCHMvYA.jpg = x500)
-![Thumbnail](https://i.imgur.com/OIA9Z4W.jpg = x500)
+![Thumbnail](https://i.imgur.com/396HDb0.jpg)
+![Thumbnail](https://i.imgur.com/0Tot4Vi.jpg)
+![Thumbnail](https://i.imgur.com/cMy0D1a.jpg)
 
 ##### Fertiger 3D-Druck mit Elektronik
-![Thumbnail](https://i.imgur.com/8KQT8Ww.jpg = x500)
-![Thumbnail](https://i.imgur.com/lw38hsb.jpg = x500)
+![Thumbnail](https://i.imgur.com/8WCQTdx.jpg)
+![Thumbnail](https://i.imgur.com/YFGhRfT.jpg)
 
 ##### Gehäuse lackieren
-![Thumbnail](https://i.imgur.com/Ul66CF4.jpg)
-![Thumbnail](https://i.imgur.com/xFjPPnl.jpg)
+![Thumbnail](https://i.imgur.com/2rADNki.jpg)
+![Thumbnail](https://i.imgur.com/ZQNhOjF.jpg)
 
 
 ##### Placeholder (Youtube)
