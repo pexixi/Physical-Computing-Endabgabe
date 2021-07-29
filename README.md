@@ -89,16 +89,18 @@ _Bitte löten Sie die Kabel wie auf dem Schaltplan beschrieben._
 * Schritt 4: Löten Sie die Pins im 90° Winkel zur Platine (siehe Abb. 4)
 ##### Abb 4
 ![Abb 4](https://i.imgur.com/YWQJju5.png)
-
 <br>
+
 * Schritt 5: Löten Sie die Pins am 5V und GND Pol des Battery Shields (siehe Abb. 5)
 ##### Abb 5
 ![Abb 5](https://i.imgur.com/YbEGsFS.png)
-
 <br>
+
 * Schritt 6: Stecken Sie das ESP32 auf das PCB Mount (siehe Abb. 6)
+
 ##### Abb 6
 ![Abb 6](https://i.imgur.com/8wwh0zU.png)
+<br>
 
 <br>
 * Schritt 8: Verbinden Sie alle Komponenten mit Kabeln
