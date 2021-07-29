@@ -73,14 +73,32 @@ _Bitte löten Sie die Kabel wie auf dem Schaltplan beschrieben._
 
 ##### Zusammenbau:
 
-* Schritt 1: Löten Sie die 2 PCB Mounts wie auf dem Bild gezeigt
-* Schritt 2: Löten Sie die Kabel wie auf dem Bild auf das PCB
+* Schritt 1: Löten Sie die zwei PCB Mounts auf das PCB (siehe Abb. 1 und 2)
+##### Abb 1
+[Abb 1](https://i.imgur.com/qVwpAJD.png)
+##### Abb 2
+[Abb 2](https://i.imgur.com/J8BxMbJ.png)
+<br>
+* Schritt 2: Löten Sie die Kabel an das PCB (siehe Abb. 3)
+##### Abb 3
+[Abb 3](https://i.imgur.com/mvvYrfw.png)
+<br>
 * Schritt 3: Demontieren Sie das erste LED-Panel von der Platine und entfernen Sie den Pinstecker
-* Schritt 4: Löten Sie die Pins im 90° Winkel zur Platine wie auf dem Bild gezeigt
-* Schritt 5: Löten Sie die Pins am 5V und GND Pol des Battery Shields (siehe Bild)
-* Schritt 6: Stecken Sie das ESP32 auf das PCB Mount
-* Schritt 7: Verbinden Sie alle Kabel wie im Code gezeigt. (siehe ESP32 Pinout)
+<br>
+* Schritt 4: Löten Sie die Pins im 90° Winkel zur Platine (siehe Abb. 4)
+##### Abb 4
+[Abb 4](https://i.imgur.com/YWQJju5.png)
+<br>
+* Schritt 5: Löten Sie die Pins am 5V und GND Pol des Battery Shields (siehe Abb. 5)
+##### Abb 5
+[Abb 5](https://i.imgur.com/YbEGsFS.png)
+<br>
+* Schritt 6: Stecken Sie das ESP32 auf das PCB Mount (siehe Abb. 6)
+##### Abb 6
+[Abb 6](https://i.imgur.com/8wwh0zU.png)
+<br>
 * Schritt 8: Verbinden Sie alle Komponenten mit Kabeln
+<br>
 * Schritt 9: Legen sie den Li-ion Akku in das Battery Shield <br> **WICHTIG: Achten Sie auf die richtige Ausrichtung des Akkus (+ zu + und - zu -)**
 
 <br>
@@ -188,16 +206,8 @@ Dennoch muss ich sagen, dass der Einstieg nicht gerade einfach ist, da man anfan
 ![Thumbnail](https://i.imgur.com/ZQNhOjF.jpg)
 
 
-##### Placeholder (Youtube)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-
 ### Nächste Schritte (nicht geplant)
 
 * Weitere Funktionen für das LED-Panel austesten (Uhr)
 * Den Apparat mit WLan ausstatten
 
-
-
-https://imgur.com/a/5PryDBm IMGUR BIN
-https://imgur.com/a/cPGTFvc IMGUR BIN 2
