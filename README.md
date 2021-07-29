@@ -102,7 +102,6 @@ _Bitte löten Sie die Kabel wie auf dem Schaltplan beschrieben._
 ![Abb 6](https://i.imgur.com/8wwh0zU.png)
 <br>
 
-<br>
 * Schritt 8: Verbinden Sie alle Komponenten mit Kabeln
 <br>
 * Schritt 9: Legen sie den Li-ion Akku in das Battery Shield <br> **WICHTIG: Achten Sie auf die richtige Ausrichtung des Akkus (+ zu + und - zu -)**
