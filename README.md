@@ -23,7 +23,7 @@ Das ganze Konstrukt wird dann in einem 3D-gedruckten Gehäuse untergebracht.
 
 ### Komponenten
 
-##### Folgende Komponenten werden für das Projekt benötigt:
+#### Folgende Komponenten werden für das Projekt benötigt:
 
 * 1x [ESP32 NodeMCU](https://www.az-delivery.de/products/esp32-developmentboard)
 * 1x [MAX7219 LED-Panel 4 in 1](https://www.amazon.de/AZDelivery-MAX7219-8x32-Parent/dp/B07Z95ZTQN)
@@ -42,7 +42,7 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 
 ### Software
 
-##### Folgende Software wird im Projekt genutzt:
+#### Folgende Software wird im Projekt genutzt:
 
 * [PlattformIO](https://platformio.org/)
 * [MD_Parola-Library](https://platformio.org/lib/show/1389/MD_Parola)
@@ -52,7 +52,7 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 
 ### Tools
 
-##### Folgende Tools werden im Projekt verwendet:
+#### Folgende Tools werden im Projekt verwendet:
 
 * Lötkolben und Lötzinn
 * 3D-Drucker
@@ -64,20 +64,20 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 
 ### Schaltplan und Zusammenbau der Hardware
 
-##### Schaltplan:
+#### Schaltplan:
 
 ![Schaltplan](https://i.imgur.com/u6TIvw4.png)
 
 <br>
 
-##### Pinout AZ-Delivery ESP32:
+#### Pinout AZ-Delivery ESP32:
 
 ![Pinout ESP32](https://i.imgur.com/lMDQXF4.png)
 
 _Bitte löten Sie die Kabel wie auf dem Schaltplan beschrieben._
 
 
-##### Zusammenbau:
+#### Zusammenbau:
 
 * Schritt 1: Löten Sie die zwei PCB Mounts auf das PCB (siehe Abb. 1 und 2)
 
@@ -123,7 +123,7 @@ _Bitte löten Sie die Kabel wie auf dem Schaltplan beschrieben._
 
 ### Code
 
-##### In diesem Repository befinden sich alle benötigten Dateien um den Code-Teil des Projektes zu realisieren.
+#### In diesem Repository befinden sich alle benötigten Dateien um den Code-Teil des Projektes zu realisieren.
 
 [Download Code als zip-Datei](https://github.com/pexixi/Physical-Computing-Endabgabe/archive/refs/heads/main.zip)
 
@@ -148,7 +148,7 @@ _Sidenotes_:
 
 ### 3D-Modell
 
-##### Fusion360
+#### Fusion360
 
 Das Casing wurde als 3D-Modell in Fusion360 erstellt und als [.f3z-Datei für weitere Konfigurationen](https://drive.google.com/file/d/1JD8DKZzHgL9R7PYdTcOIQCFAfEy4mTFu/view?usp=sharing) bzw. als [Case-Bottom](https://drive.google.com/file/d/12Amgk3q4uACBWGeh2aorHHYebmk8sI24/view?usp=sharing) und [Case-Top](https://drive.google.com/file/d/1RedVauzBIqDiYhcPsK67nbPZa154sME3/view?usp=sharing) im .stl-Format für einen Slicer exportiert. <br>
 _Alle Dateien können heruntergeladen und in entsprechenden Programmen modifiziert werden._
@@ -158,7 +158,7 @@ _Alle Dateien können heruntergeladen und in entsprechenden Programmen modifizie
 ![Assembly 3](https://imgur.com/rqFNzdl.png)
 ![Assembly 4](https://imgur.com/KwiUSJY.png)
 
-##### PrusaSlicer
+#### PrusaSlicer
 
 Casing-Bottom und Casing-Top werden anschließend in PrusaSlicer importiert, um einen 3D-druckbares Modell zu generieren. Für den Ender 3 Pro 3D-Drucker ist bereits eine [fertiger G-Code](https://drive.google.com/file/d/1LTSdZjHYtXzgyWq_We8hQhu_QRHT8Dq6/view?usp=sharing) angelegt. <br>
 _Um aus den .stl-Dateien einen G-Code für einen anderen 3D-Drucker zu generieren, schauen Sie in die [Dokumentation von PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)_
@@ -171,7 +171,7 @@ _Um aus den .stl-Dateien einen G-Code für einen anderen 3D-Drucker zu generiere
 
 ### Finish
 
-##### Zusammenbau der Komponenten
+#### Zusammenbau der Komponenten
 
 Das 3D-gedruckte Casing kann jetzt mit 120er Körnung Schmirgelpapier von Druckfehlern befreit werden, danach kann die Oberfläche angeraut und mit Sprühfarbe eingefärbt werden.
 Legen Sie nach dem Trocknen das LED-Panel in die Halterung und fixieren Sie das Panel gegebenenfalls mit etwas Isolierband.
@@ -188,36 +188,36 @@ Richten Sie die Komponenten anschließend auf dem Boden des Casings aus, dass Si
 
 ### Reflektion der Ziele
 
-##### These
+#### These
 
 Als Webentwickler macht mir Coden spaß, zudem bin ich relativ technikbegeistert und neugierig wie Technik generell funktioniert. In meinem Projekt wollte erste Berührungspunkte mit dem Thema Microcontroller und elektronischen Komponenten sammeln, um herauszufinden, ob mir dieses Gebiet gefällt und ich mich weiter in diese Richtung entwickeln will. Außerdem wollte ich ein besseres Verständnis dafür entwickeln wie Technik von Grund auf funktioniert.
 
-##### Fazit
+#### Fazit
 
 Ich konnte definitiv ein besseres Verständnis dafür bekommen, wie Technik aufgebaut ist und funktioniert. Microcontroller finde ich sehr spannend und ich kann mir gut vorstellen, mich hobbymäßig mehr in dem Bereich auszuleben.
 Dennoch muss ich sagen, dass der Einstieg nicht gerade einfach ist, da man anfangs einfach nur akzeptiert, dass eine Komponente/ein Code jetzt so funktioniert, aber nicht weiß wieso.
 
 ### Verlauf des Entstehungsprozesses INCOMPLETE
 
-##### Erstes Mal das Panel mit Library ausprobiert (Youtube)
+#### Erstes Mal das Panel mit Library ausprobiert (Youtube)
 [![Thumbnail](https://img.youtube.com/vi/kx7GaSJh67w/0.jpg)](https://www.youtube.com/watch?v=kx7GaSJh67w)
 
-##### Erstes Mal richtige Library mit Lauftext zum Laufen gebracht (Youtube)
+#### Erstes Mal richtige Library mit Lauftext zum Laufen gebracht (Youtube)
 [![Thumbnail](https://img.youtube.com/vi/GreU7p_BqmY/0.jpg)](https://www.youtube.com/watch?v=GreU7p_BqmY)
 
-##### 3D-Druck (Anfang von 16 Stunden drucken) (Youtube)
+#### 3D-Druck (Anfang von 16 Stunden drucken) (Youtube)
 [![Thumbnail](https://img.youtube.com/vi/_AsuDvulLv0/0.jpg)](https://www.youtube.com/watch?v=_AsuDvulLv0)
 
-##### Fertiger 3D-Druck
+#### Fertiger 3D-Druck
 ![Thumbnail](https://i.imgur.com/396HDb0.jpg)
 ![Thumbnail](https://i.imgur.com/0Tot4Vi.jpg)
 ![Thumbnail](https://i.imgur.com/cMy0D1a.jpg)
 
-##### Fertiger 3D-Druck mit Elektronik
+#### Fertiger 3D-Druck mit Elektronik
 ![Thumbnail](https://i.imgur.com/8WCQTdx.jpg)
 ![Thumbnail](https://i.imgur.com/YFGhRfT.jpg)
 
-##### Gehäuse lackieren
+#### Gehäuse lackieren
 ![Thumbnail](https://i.imgur.com/2rADNki.jpg)
 ![Thumbnail](https://i.imgur.com/ZQNhOjF.jpg)
 
