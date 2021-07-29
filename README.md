@@ -1,3 +1,4 @@
+
 # Physical Computing Endabgabe
 
 Hier das Repo zu meiner Endabgabe im Seminar Physical Computing bei Peter Ehses.
@@ -9,11 +10,12 @@ Hier das Repo zu meiner Endabgabe im Seminar Physical Computing bei Peter Ehses.
 ## About
 
 Ziel dieses Projektes ist es, mit Hilfe des Mikrocontrollers _ESP32_, ein LED-Panel zu steuern, um einen Lauftext wiederzugeben.
-Da das ESP32 mit einem Wlan-Chip ausgestattet ist, wird die Apparatur mit Hilfe eines Akkus versorgt, um sie gegebenenfalls portabel und Remote-Steuerbar zu machen.
-Das ganze Konstrukt wird dann in einer 3D-gedruckten Box untergebracht.
+Da das ESP32 mit einem Wlan-Chip ausgestattet ist, wird die Apparatur mit Hilfe eines Akkus versorgt, um sie gegebenenfalls portabel und remote-steuerbar zu machen.
+Das ganze Konstrukt wird dann in einem 3D-gedruckten Gehäuse untergebracht.
 
-![Beispielbilder fertiges Produkt](##)
-![Beispielbilder fertiges Produkt](##)
+![Frontview](https://i.imgur.com/c2CKlla.jpg)
+![Frontview offenes Gehäuse](https://i.imgur.com/evBwEmW.jpg)
+![Innenansicht Gehäuse](https://i.imgur.com/oumAU7L.jpg)
 
 <br>
 
@@ -138,8 +140,8 @@ _Um aus den .stl-Dateien einen G-Code für einen anderen 3D-Drucker zu generiere
 ##### Zusammenbau der Komponenten
 
 Das 3D-gedruckte Casing kann jetzt mit 120er Körnung Schmirgelpapier von Druckfehlern befreit werden, danach kann die Oberfläche angeraut und mit Sprühfarbe eingefärbt werden.
-Legen Sie nach dem Trocknen das LED-Panel in die Halterung und fixieren Sie das Panel mit etwas Isolierband.
-Richten Sie die Komponenten anschließend auf dem Boden des Casings aus, dass Sie passen und isolieren Sie den Akku von angrenzender Elektronik mit Isolierband. Kleben Sie anschließend die Komponenten auf dem Boden des Casings mit Hilfe einer Heißklebepistole fest.
+Legen Sie nach dem Trocknen das LED-Panel in die Halterung und fixieren Sie das Panel gegebenenfalls mit etwas Isolierband.
+Richten Sie die Komponenten anschließend auf dem Boden des Casings aus, dass Sie passen und isolieren Sie den Akku, wenn nötig, von angrenzender Elektronik mit Isolierband. Kleben Sie anschließend die Komponenten auf dem Boden des Casings mit Hilfe einer Heißklebepistole fest.
 
 <br>
 
@@ -164,13 +166,27 @@ Dennoch muss ich sagen, dass der Einstieg nicht gerade einfach ist, da man anfan
 ### Verlauf des Entstehungsprozesses INCOMPLETE
 
 ##### Erstes Mal das Panel mit Library ausprobiert (Youtube)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kx7GaSJh67w/0.jpg)](https://www.youtube.com/watch?v=kx7GaSJh67w)
+[![Thumbnail](https://img.youtube.com/vi/kx7GaSJh67w/0.jpg)](https://www.youtube.com/watch?v=kx7GaSJh67w)
 
 ##### Erstes Mal richtige Library mit Lauftext zum Laufen gebracht (Youtube)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GreU7p_BqmY/0.jpg)](https://www.youtube.com/watch?v=GreU7p_BqmY)
+[![Thumbnail](https://img.youtube.com/vi/GreU7p_BqmY/0.jpg)](https://www.youtube.com/watch?v=GreU7p_BqmY)
 
 ##### 3D-Druck (Anfang von 16 Stunden drucken) (Youtube)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_AsuDvulLv0/0.jpg)](https://www.youtube.com/watch?v=_AsuDvulLv0)
+[![Thumbnail](https://img.youtube.com/vi/_AsuDvulLv0/0.jpg)](https://www.youtube.com/watch?v=_AsuDvulLv0)
+
+##### Fertiger 3D-Druck
+[Thumbnail](https://i.imgur.com/MylAgsZ.jpg)
+[Thumbnail](https://i.imgur.com/sCHMvYA.jpg)
+[Thumbnail](https://i.imgur.com/OIA9Z4W.jpg)
+
+##### Fertiger 3D-Druck mit Elektronik
+[Thumbnail](https://i.imgur.com/8KQT8Ww.jpg)
+[Thumbnail](https://i.imgur.com/lw38hsb.jpg)
+
+##### Gehäuse lackieren
+[Thumbnail](https://i.imgur.com/Ul66CF4.jpg)
+[Thumbnail](https://i.imgur.com/xFjPPnl.jpg)
+
 
 ##### Placeholder (Youtube)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
