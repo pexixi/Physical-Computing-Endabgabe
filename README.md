@@ -60,15 +60,17 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 
 <br>
 
-## Step 2 INCOMPLETE
+## Step 2
 
 ### Schaltplan und Zusammenbau der Hardware
 
-##### Der Schaltplan hat folgendes Layout:
+##### Schaltplan:
 
 ![Schaltplan](https://i.imgur.com/u6TIvw4.png)
 
 <br>
+
+##### Pinout AZ-Delivery ESP32:
 
 ![Pinout ESP32](https://i.imgur.com/lMDQXF4.png)
 
