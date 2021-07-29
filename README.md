@@ -77,7 +77,7 @@ _[(PCB-Komponenten im Set)](https://www.amazon.de/-/en/dp/B08TMMZPWT/ref=sr_1_5?
 _Bitte löten Sie die Kabel wie auf dem Schaltplan beschrieben._
 
 
-#### Zusammenbau:
+### Zusammenbau:
 
 * Schritt 1: Löten Sie die zwei PCB Mounts auf das PCB (siehe Abb. 1 und 2)
 
