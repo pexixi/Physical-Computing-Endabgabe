@@ -181,7 +181,7 @@ Richten Sie die Komponenten anschließend auf dem Boden des Casings aus, dass Si
 
 # Misc
 
-### Verwendete Tutorials Übersicht
+### Verwendete Tutorials
 
 * [Text Scrolling Display | MAX7219 Dot Matrix 4-in-1| Arduino (Youtube)](https://www.youtube.com/watch?v=lcrQet0ga-k)
 * [Matrix LED 32x8 - 4 Modules 8x8 with MAX7219 (GrabCAD)](https://grabcad.com/library/matrix-led-32x8-4-modules-8x8-with-max7219-1)
@@ -190,14 +190,14 @@ Richten Sie die Komponenten anschließend auf dem Boden des Casings aus, dass Si
 
 #### These
 
-Als Webentwickler macht mir Coden spaß, zudem bin ich relativ technikbegeistert und neugierig wie Technik generell funktioniert. In meinem Projekt wollte erste Berührungspunkte mit dem Thema Microcontroller und elektronischen Komponenten sammeln, um herauszufinden, ob mir dieses Gebiet gefällt und ich mich weiter in diese Richtung entwickeln will. Außerdem wollte ich ein besseres Verständnis dafür entwickeln wie Technik von Grund auf funktioniert.
+Als Webentwickler macht mir Coden spaß, zudem bin ich relativ technikbegeistert und neugierig wie Technik generell funktioniert. In meinem Projekt wollte ich erste Berührungspunkte mit dem Thema Microcontroller und elektronischen Komponenten sammeln, um herauszufinden, ob mir dieses Gebiet gefällt und ich mich weiter in diese Richtung entwickeln will. Außerdem wollte ich ein besseres Verständnis dafür entwickeln wie Technik von Grund auf funktioniert.
 
 #### Fazit
 
 Ich konnte definitiv ein besseres Verständnis dafür bekommen, wie Technik aufgebaut ist und funktioniert. Microcontroller finde ich sehr spannend und ich kann mir gut vorstellen, mich hobbymäßig mehr in dem Bereich auszuleben.
 Dennoch muss ich sagen, dass der Einstieg nicht gerade einfach ist, da man anfangs einfach nur akzeptiert, dass eine Komponente/ein Code jetzt so funktioniert, aber nicht weiß wieso.
 
-### Verlauf des Entstehungsprozesses INCOMPLETE
+### Verlauf des Entstehungsprozesses
 
 #### Erstes Mal das Panel mit Library ausprobiert (Youtube)
 [![Thumbnail](https://img.youtube.com/vi/kx7GaSJh67w/0.jpg)](https://www.youtube.com/watch?v=kx7GaSJh67w)
