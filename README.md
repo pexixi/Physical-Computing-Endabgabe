@@ -74,18 +74,23 @@ _Bitte löten Sie die Kabel wie auf dem Schaltplan beschrieben._
 ##### Zusammenbau:
 
 * Schritt 1: Löten Sie die zwei PCB Mounts auf das PCB (siehe Abb. 1 und 2)
+
 ##### Abb 1
 ![Abb 1](https://i.imgur.com/qVwpAJD.png)
+
 ##### Abb 2
 ![Abb 2](https://i.imgur.com/J8BxMbJ.png)
 <br>
+
 * Schritt 2: Löten Sie die Kabel an das PCB (siehe Abb. 3)
+
 ##### Abb 3
 ![Abb 3](https://i.imgur.com/mvvYrfw.png)
-
 <br>
+
 * Schritt 3: Demontieren Sie das erste LED-Panel von der Platine und entfernen Sie den Pinstecker
 <br>
+
 * Schritt 4: Löten Sie die Pins im 90° Winkel zur Platine (siehe Abb. 4)
 ##### Abb 4
 ![Abb 4](https://i.imgur.com/YWQJju5.png)
