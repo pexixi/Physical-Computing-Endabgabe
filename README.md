@@ -222,7 +222,7 @@ Dennoch muss ich sagen, dass der Einstieg nicht gerade einfach ist, da man anfan
 ![Thumbnail](https://i.imgur.com/ZQNhOjF.jpg)
 
 
-### Nächste Schritte (nicht geplant)
+### Nächste Schritte (nicht geplant für Endabgabe)
 
 * Weitere Funktionen für das LED-Panel austesten (Uhr)
 * Den Apparat mit WLan ausstatten
