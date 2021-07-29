@@ -98,7 +98,7 @@ _Bitte löten Sie die Kabel wie auf dem Schaltplan beschrieben._
 <br>
 * Schritt 6: Stecken Sie das ESP32 auf das PCB Mount (siehe Abb. 6)
 ##### Abb 6
-![Abb 6] (https://i.imgur.com/8wwh0zU.png)
+![Abb 6](https://i.imgur.com/8wwh0zU.png)
 
 <br>
 * Schritt 8: Verbinden Sie alle Komponenten mit Kabeln
